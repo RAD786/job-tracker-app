@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="container">
       <header className="header">
-        <h1>Hire-Me Hub</h1>
+        <h1>JOB TRACKER/PROJECT ORGANIZER</h1>
         <nav className="tabs" role="tablist" aria-label="Pages">
           <button
             type="button"

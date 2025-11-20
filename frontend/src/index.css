@@ -47,8 +47,8 @@ a{
 }
 
 .card{
-  background:linear-gradient(180deg,#0b1120,#0b1120 10%,rgba(20,20,40,.6)); 
-  border:1px solid #111827; 
+  background:linear-gradient(180deg,#0b1120,#0b41c8 10%,rgba(20,20,40,.6)); 
+  border:1px solid #f8f8f8; 
   border-radius:16px; 
   padding:16px
 }
